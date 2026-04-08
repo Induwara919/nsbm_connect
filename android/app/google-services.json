@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050956025298",
+    "project_id": "nsbm-connect",
+    "storage_bucket": "nsbm-connect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050956025298:android:f3a8347a7d1eb1c79b8c0b",
+        "android_client_info": {
+          "package_name": "com.nsbm.connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjs5mU0qY9sI8Un1QUDnSK3kOcAkRYxZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050956025298:android:5f526186b74a1ec39b8c0b",
+        "android_client_info": {
+          "package_name": "com.nsbm.connect.nsbm_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjs5mU0qY9sI8Un1QUDnSK3kOcAkRYxZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
